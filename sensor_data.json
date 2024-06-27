@@ -1,0 +1,51 @@
+[
+    {
+        "serial_number": "AXLfwFkL",
+        "plant_name": "ZNheZlmP",
+        "temperature": 21.73807028275893,
+        "humidity": 43.56982322710311,
+        "status": "Middle"
+    },
+    {
+        "serial_number": "zdpKTVjV",
+        "plant_name": "PWhFCMhP",
+        "temperature": 13.180322584632755,
+        "humidity": 69.82264191387378,
+        "status": "Too Low"
+    },
+    {
+        "serial_number": "HbMiBmTd",
+        "plant_name": "oWnLQvCb",
+        "temperature": 31.668677225660616,
+        "humidity": 64.3326110716546,
+        "status": "Too High"
+    },
+    {
+        "serial_number": "KdWkJQjl",
+        "plant_name": "VwmVmTzM",
+        "temperature": 13.549251210862318,
+        "humidity": 57.66516363148845,
+        "status": "Too Low"
+    },
+    {
+        "serial_number": "YDeAAfdl",
+        "plant_name": "RVDQkrNe",
+        "temperature": 27.673968481787067,
+        "humidity": 30.41874595388165,
+        "status": "Middle"
+    },
+    {
+        "serial_number": "QBrypetD",
+        "plant_name": "xexXjKIr",
+        "temperature": 7.286032624643904,
+        "humidity": 38.8238289321842,
+        "status": "Too Low"
+    },
+    {
+        "serial_number": "BlbIkxlD",
+        "plant_name": "BIglCmBV",
+        "temperature": 9.908683482698741,
+        "humidity": 10.8780129233186,
+        "status": "Too Low"
+    }
+]

@@ -1,0 +1,7 @@
+{
+  "broker": "127.0.0.1",
+  "port": "1883",
+  "client_name": "IOT_client-Id-7567017",
+  "username": "1234",
+  "password": "1234"
+}
